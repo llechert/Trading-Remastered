@@ -1,2 +1,2 @@
 # Trading-Remastered
-The old software remastered using new and modern tools
+The old software remastered using modern tools
